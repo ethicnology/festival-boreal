@@ -1,5 +1,6 @@
 ## Festival Boréal
-![Affiche du festival](https://github.com/ethicnology/festival-boreal/blob/gh-pages/affiche-festival-boreal.PNG "Affiche du festival")
+<img src="affiche-festival-boreal.png" width="800" />
+![Affiche du festival](affiche-festival-boreal.png "Affiche du festival")
 
 ### Support or Contact
 
